@@ -1,5 +1,13 @@
+
+
 ## Hi i am vignesh software developer
 
-Computer Applications Student
+💻 Software Developer | MCA Graduate
 
-- I am currently learing MERN Full Stack Development
+- 🌱 Currently learning MERN Full Stack Development
+
+- 🗄️ Strong interest in MySQL & Database Management
+
+- 🔍 Actively seeking placement opportunities in software development
+
+- 🚀 Passionate about building practical, real-world applications
