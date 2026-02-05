@@ -1,6 +1,6 @@
 
 
-## Hi i am vignesh software developer
+## Vignesh Ezhumalai 
 
 💻 Software Developer | MCA Graduate
 
@@ -11,3 +11,5 @@
 - 🔍 Actively seeking placement opportunities in software development
 
 - 🚀 Passionate about building practical, real-world applications
+
+  ### i code using 
